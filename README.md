@@ -21,3 +21,7 @@ This is a repository with some known datasets from different sources and also co
 
 * Lcbs.syn
 * VCT.syn
+
+### 1D Transfer Function
+
+* Transfer functions built using a list of control points (from [GraphicsRunner](http://graphicsrunner.blogspot.com/2009/01/volume-rendering-102-transfer-functions.html)).
